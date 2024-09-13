@@ -265,7 +265,7 @@ input[type="radio"]
     display: block;
     text-decoration: none;
     color: #777;
-    font-size: 14px;
+    font-size: 15px;
     margin-bottom: 10px;
 
 }
@@ -309,9 +309,9 @@ input[type="radio"]
     {
         position: unset;
         transform: none;
-        padding-top: 0px;
+        padding-top: 150px;
     }
-    .headet-content h1
+    .header-content h1
     {
         font-size: 30px;
     }
@@ -364,5 +364,9 @@ input[type="radio"]
     .footer h2
     {
         width: 265px;
+    }
+    .footer button
+    {
+        font-size: 13px;
     }
 }
